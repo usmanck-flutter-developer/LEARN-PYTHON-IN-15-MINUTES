@@ -13,7 +13,7 @@ Welcome to **Learn Python in 15 Minutes**! This repo is your quick-start guide t
 ## How to Use This Repo
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/learn-python-in-15-minutes.git
+   git clone https://github.com/usmanck-flutter-developer/learn-python-in-15-minutes.git
    ```
 2. **Open the files** in your favorite editor (e.g., VS Code).
 3. **Follow the examples** in order—each file builds on the last.
